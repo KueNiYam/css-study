@@ -1,0 +1,40 @@
+/* 가운데 정렬: Centering in CSS */
+
+body {
+  background-color: #cddef6;
+}
+
+.box {
+  background-color: white;
+  width:960px;
+  margin: 500px auto 0;
+  text-align: center;
+  border-radius: 20px;
+  border-right: 5px solid #ccc;
+  border-bottom: 5px solid #999;
+}
+
+.box h1 {
+  border-bottom: 10px solid;
+  width:150px;
+  margin: 40px auto;
+  font-size: 4rem;
+}
+
+.box p {
+  margin-top: 0;
+  padding: 0 3rem 3rem;
+}
+
+.box .pre-desc  {
+  display: block;
+  width: 240px;
+  padding: 3rem;
+  margin: 0 auto 3rem;
+  border: 1px solid;
+}
+
+
+.box-cover {
+  margin-top: -500px;
+}
