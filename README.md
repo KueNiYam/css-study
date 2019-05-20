@@ -1,14 +1,15 @@
-# css-study
+# CSS Study
 
-css 스터디 <br><br>
+css 공부 <br><br>
 참고: https://programmers.co.kr/learn/courses/4521
 
+## 내용
 
-# 가운데 정렬: Centering in CSS
-
-div 요소를 가운데 정렬할 수 있는 가장 보편적인 방법은 margin-left와 margin-right를 auto로 설정하는 것이다.
-
-	div {
-		margin-left: auto;
-		margin-right: auto;
-	}
+- 가운데 정렬: Centering in CSS  
+- 네거티브 마진(Negative Margins)  
+- 디스플레이(Display Property)  
+- 라인하이트(줄 간격, line-height)  
+- 마진 병합(Margin Collapsing)  
+- 버티컬 얼라인(세로 정렬, vertical-align)  
+- 상속(Inheritance)  
+- 오버플로우(Overflow)
